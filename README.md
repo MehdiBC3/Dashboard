@@ -1,2 +1,2 @@
-<img width="416" alt="Dashboard-capture" src="https://github.com/MehdiBC3/Dashboard/assets/156785256/59252222-696f-41e6-856a-c235c948ed87">
-<img width="419" alt="Dashboard-capture2" src="https://github.com/MehdiBC3/Dashboard/assets/156785256/2fe07e11-861a-4072-b5fa-3d5ddd81c726">
+<img width="446" alt="Dashboard" src="https://github.com/MehdiBC3/Dashboard/assets/156785256/6d778e25-5144-41e2-8b6a-c6e9095d2acd">
+<img width="559" alt="Dashboard2" src="https://github.com/MehdiBC3/Dashboard/assets/156785256/f5c5d363-9e6c-4868-ac3d-d6e2a648abcd">
